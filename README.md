@@ -1,2 +1,3 @@
 # test-hello-world
-This repository is for doing the tutorial using the classic "Hello World" 
+This repository is for doing the tutorial using the classic "Hello World".
+Learning how to use github is good but learning Git is a "Must" if you want to do collaborative work...
